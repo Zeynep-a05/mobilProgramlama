@@ -4,3 +4,6 @@ node_modules/
 .env
 dist/
 web-build/
+AGENTS.md
+CLAUDE.md
+.vscode/
