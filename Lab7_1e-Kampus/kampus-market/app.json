@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "kampus-market",
+    "slug": "kampus-market",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "kampusmarket",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"]
+  }
+}
